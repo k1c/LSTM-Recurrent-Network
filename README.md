@@ -5,6 +5,7 @@ Carolyne Pelletier - 101054962
 Akhil Dalal - 100855466
 
 Tested on: Windows 10
+
 Using the following versions: tensorflow 1.3.0, keras 2.1.2
 
 INSTALL THESE BEFORE RUNNING THE NETWORK.
@@ -19,10 +20,7 @@ Libraries required (using pip install):
 - scikit-learn
 - matplotlib
 
-Command to install the above:
-
-pip install pandas bs4 lxml tensorflow keras scikit-learn matplotlib 
-
+Command to install the above: pip install pandas bs4 lxml tensorflow keras scikit-learn matplotlib 
 
 To run: Python3 lstm.py
 
